@@ -11,13 +11,13 @@ http://localhost/myshop/
 ```
 
 ## Features
-* login / logout
+* news
 * cart
+* register
+* login
+* logout
 * history
 * admin
-
-## Package
-* not use
 
 ## License
 RMUTT License
