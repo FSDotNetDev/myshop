@@ -1,6 +1,6 @@
 ## Git Clone
 ```bash
-git clone https://github.com/FSDotNetDev/myshop.git
+git clone https://github.com/natthasath/myshop.git
 ```
 
 [![Myshop demo](https://raw.githubusercontent.com/FSDotNetDev/myshop/master/image/myshop.png)]()
